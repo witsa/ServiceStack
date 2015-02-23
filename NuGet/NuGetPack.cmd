@@ -1,4 +1,4 @@
-SET NUGET=..\src\.nuget\nuget
+SET NUGET=nuget
 %NUGET% pack ServiceStack\servicestack.nuspec -symbols
 %NUGET% pack ServiceStack.Common\servicestack.common.nuspec -symbols
 %NUGET% pack ServiceStack.Mvc\servicestack.mvc.nuspec -symbols

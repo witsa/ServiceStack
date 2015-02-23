@@ -525,7 +525,7 @@
             
             </summary>
         </member>
-        <!-- Badly formed XML comment ignored for member "M:ServiceStack.Common.Utils.AssertUtils.AreNotNull(System.Collections.Generic.IDictionary{System.String,System.Object})" -->
+        <!-- Commentaire XML incorrect ignoré pour le membre "M:ServiceStack.Common.Utils.AssertUtils.AreNotNull(System.Collections.Generic.IDictionary{System.String,System.Object})" -->
         <member name="M:ServiceStack.Common.Utils.CommandsUtils.ExecuteAsyncCommandExec(System.Collections.Generic.IEnumerable{ServiceStack.DesignPatterns.Command.ICommandExec})">
             <summary>
             Provide the an option for the callee to block until all commands are executed
